@@ -4,6 +4,7 @@
 <title> Project </title>
 <p>The ins element represent inserted (added) text.</p>
 <p>My favorite <ins>color</ins> is red.</p>
+<img src="pic_trulli.jpg" alt="Italian Trulli">
 </body>
 </head>
 </html>
